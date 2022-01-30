@@ -1,3 +1,3 @@
-module words
+module wordle
 
 go 1.17

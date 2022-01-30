@@ -534,8 +534,8 @@ func main() {
 	//saite chlor pfund
 	//12539 40867
 
-	//German("ie", "sa-t-", "-----")
-	English("teaiclos", "--r--", "---n-")
+	German("ie", "sa-t-", "-----")
+	//English("teaiclos", "--r--", "---n-")
 	//Prime("145780", "---3-,3-9--", "-2-69")
 	//English("mountadscybv", "re---,li---", "---er")
 }
